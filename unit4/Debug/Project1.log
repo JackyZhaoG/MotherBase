@@ -1,0 +1,11 @@
+﻿  运行单元测试.cpp
+C:\Users\Jacky\Downloads\欧再新 unit4\unit.h(34,7): error C2082: 形参“m”的重定义
+C:\Users\Jacky\Downloads\欧再新 unit4\unit.h(46,12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Jacky\Downloads\欧再新 unit4\运行单元测试.cpp(3,6): error C2065: “Ciclenumber”: 未声明的标识符
+C:\Users\Jacky\Downloads\欧再新 unit4\运行单元测试.cpp(3,19): error C2065: “results”: 未声明的标识符
+C:\Users\Jacky\Downloads\欧再新 unit4\运行单元测试.cpp(3,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Jacky\Downloads\欧再新 unit4\运行单元测试.cpp(4,1): error C2448: “TEST”: 函数样式初始值设定项类似函数定义
+C:\Users\Jacky\Downloads\欧再新 unit4\运行单元测试.cpp(13,5): error C3083: “testing”:“::”左侧的符号必须是一种类型
+C:\Users\Jacky\Downloads\欧再新 unit4\运行单元测试.cpp(13,14): error C2039: “InitGoogleTest”: 不是“`global namespace'”的成员
+C:\Users\Jacky\Downloads\欧再新 unit4\运行单元测试.cpp(13,28): error C3861: “InitGoogleTest”: 找不到标识符
+C:\Users\Jacky\Downloads\欧再新 unit4\运行单元测试.cpp(14,10): error C3861: “RUN_ALL_TESTS”: 找不到标识符
